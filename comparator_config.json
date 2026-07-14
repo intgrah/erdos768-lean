@@ -1,0 +1,7 @@
+{
+    "challenge_module": "Challenge",
+    "solution_module": "RequestProject.Main",
+    "theorem_names": ["Erdos768.erdos_768"],
+    "permitted_axioms": ["propext", "Quot.sound", "Classical.choice"],
+    "enable_nanoda": false
+}
